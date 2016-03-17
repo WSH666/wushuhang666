@@ -15,6 +15,7 @@
 		C297B80B1C9A3EA300EF7D1A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C297B8091C9A3EA300EF7D1A /* LaunchScreen.storyboard */; };
 		C297B8161C9A3EA300EF7D1A /* _55Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = C297B8151C9A3EA300EF7D1A /* _55Tests.m */; };
 		C297B8211C9A3EA300EF7D1A /* _55UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = C297B8201C9A3EA300EF7D1A /* _55UITests.m */; };
+		C297B8301C9A44E600EF7D1A /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C297B82F1C9A44E600EF7D1A /* TableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		C297B81C1C9A3EA300EF7D1A /* 555UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 555UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C297B8201C9A3EA300EF7D1A /* _55UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _55UITests.m; sourceTree = "<group>"; };
 		C297B8221C9A3EA300EF7D1A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C297B82E1C9A44E600EF7D1A /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
+		C297B82F1C9A44E600EF7D1A /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				C297B7FF1C9A3EA300EF7D1A /* AppDelegate.m */,
 				C297B8011C9A3EA300EF7D1A /* ViewController.h */,
 				C297B8021C9A3EA300EF7D1A /* ViewController.m */,
+				C297B82E1C9A44E600EF7D1A /* TableViewController.h */,
+				C297B82F1C9A44E600EF7D1A /* TableViewController.m */,
 				C297B8041C9A3EA300EF7D1A /* Main.storyboard */,
 				C297B8071C9A3EA300EF7D1A /* Assets.xcassets */,
 				C297B8091C9A3EA300EF7D1A /* LaunchScreen.storyboard */,
@@ -276,6 +281,7 @@
 				C297B8031C9A3EA300EF7D1A /* ViewController.m in Sources */,
 				C297B8001C9A3EA300EF7D1A /* AppDelegate.m in Sources */,
 				C297B7FD1C9A3EA300EF7D1A /* main.m in Sources */,
+				C297B8301C9A44E600EF7D1A /* TableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
